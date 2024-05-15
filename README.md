@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me amarvaish@gmail.com
+- 📫 How to reach me amarvaish@gmail.com ...
 
 <!---
 amarvaish/amarvaish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
